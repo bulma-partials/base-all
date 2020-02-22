@@ -1,0 +1,23 @@
+{
+   "name": "@bulma-partials/base-all",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.scss",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yonicb/-bulma-partials-base-all.git"
+   },
+   "keywords": [
+      "bulma-scss",
+      "bulma-partials"
+   ],
+   "author": "Yoni Calsin <helloyonicb@gmail.com>",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/yonicb/-bulma-partials-base-all/issues"
+   },
+   "homepage": "https://github.com/yonicb/-bulma-partials-base-all#readme"
+}
